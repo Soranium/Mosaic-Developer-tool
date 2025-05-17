@@ -26,7 +26,7 @@ imagesとtxtのval/trainの作成
 
 ```Label-studio Launch```ボタンを押すとAnacondaがpython環境3.10.9を構築。必要な依存関係がインストールされます。
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Soranium/Mosaic-Developer-tool/main/images/GUI.png" alt="GUI" width="500">
+  <img src="https://i.imgur.com/VqovotC.png" alt="GUI" width="500">
 </p>
 
 ## LICENSE ##
